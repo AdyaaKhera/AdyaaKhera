@@ -44,29 +44,6 @@ I work end-to-end across perception, estimation, planning, and control, with a f
 
 ---
 
-## Featured Repositories
-
-<p align="center">
-  </a>
-  <a href="https://github.com/AdyaaKhera/mars_rover">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdyaaKhera&repo=mars_rover&hide_border=true&bg_color=0B1220&title_color=8FD3FF&icon_color=99E2B4&text_color=DCE9F8" alt="mars_rover repository" />
-  </a>
-</p>
-<p align="center">
-  </a>
-  <a href="https://github.com/AdyaaKhera/MazeSolver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdyaaKhera&repo=MazeSolver&hide_border=true&bg_color=0B1220&title_color=8FD3FF&icon_color=99E2B4&text_color=DCE9F8" alt="MazeSolver repository" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/AdyaaKhera/Neural-IK-RoboticArmSimulation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdyaaKhera&repo=Neural-IK-RoboticArmSimulation&hide_border=true&bg_color=0B1220&title_color=8FD3FF&icon_color=99E2B4&text_color=DCE9F8" alt="Neural-IK-RoboticArmSimulation repository" />
-  </a>
-</p>
-
----
-
 ## Current Work
 
 - VLAs for robotic manipulation
