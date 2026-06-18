@@ -52,4 +52,4 @@ I work end-to-end across perception, estimation, planning, and control, with a f
 
 ---
 
-<p align="center"><em>Built on Earth. Engineered for beyond.</em></p>
+<p align="center"><em>Love to build on Earth for beyond.</em></p>
