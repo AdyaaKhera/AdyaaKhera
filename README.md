@@ -2,7 +2,7 @@
 <p align="center"><strong>Robotics Engineer</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2600&pause=700&color=8FD3FF&center=true&vCenter=true&width=900&lines=Space+Robotics+%7C+Humanoids+%7C+UXVs;Designed+for+uncertainty.+Engineered+for+reliability." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2600&pause=700&color=8FD3FF&center=true&vCenter=true&width=900&lines=Space+Robotics+%7C+Humanoids+%7C+UXVs;Junior+at+Purdue+University." alt="Typing intro" />
 </p>
 
 ---
