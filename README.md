@@ -9,17 +9,7 @@
 
 ## Profile
 
-I'm a robotics engineering sophomore building reliable autonomous systems for uncertain environments.
-
-I work end-to-end across perception, estimation, planning, and control, with a focus on systems that stay stable under real-world constraints such as noisy sensing, tight budgets, and especially, unpredictable terrain. My long-term goal is to enter space robotics and build autonomous machines that can operate where human intervention is difficult.
-
----
-
-## Core Competencies
-
-- Embedded systems and low-latency control loop implementation
-- Vision and perception for navigation and environment understanding
-- ML-assisted behavior tuning and data-driven iteration
+I'm a robotics engineering junior building reliable autonomous systems for uncertain environments.
 
 ---
 
@@ -31,16 +21,6 @@ I work end-to-end across perception, estimation, planning, and control, with a f
 - **CAD & Simulation:** CATIA, Siemens NX & Teamcenter, Autodesk Fusion, Inventor, Onshape
 - **Embedded Systems:** Raspberry Pi, Arduino, ESP32
 - **Robotics:** Webots, ROS, Yamaha Robots, Fanuc Robots
-
-
----
-
-## Space Robotics Focus
-
-- Robust autonomy for extreme-environment operations
-- Smart decision-making under uncertainty
-- Perception strategies for sparse, noisy, and low-feature terrain
-- Engineering for reliability-first deployment
 
 ---
 
