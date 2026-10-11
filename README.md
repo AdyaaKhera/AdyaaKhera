@@ -1,35 +1,27 @@
-<h1 align="center">Adyaa Khera</h1>
-<p align="center"><strong>Robotics Engineer</strong></p>
+## Hi, I'm a junior in Robotics at Purdue University, interested in Autonomous Rovers for Space Exploration, Robot Learning and Embedded Systems. Thanks for visiting my Github!
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=22&duration=2600&pause=700&color=8FD3FF&center=true&vCenter=true&width=900&lines=Space+Robotics+%7C+Humanoids+%7C+UXVs;Junior+at+Purdue+University." alt="Typing intro" />
-</p>
+Latest update (10/10/2026): Working on applying to Robocurve!
 
----
+### Featured Work
 
-## Profile
+- **[NEXUS](https://github.com/AdyaaKhera/mars_rover)** : Autonomous exploration rover with embedded firmware, telemetry, computer vision, and layered motor safety.
+- **[1U CubeSat](https://github.com/AdyaaKhera/1uCubeSat)** : Arduino-based spacecraft prototype for sensor acquisition, telemetry, and simplified attitude-control experiments.
+- **[Neural IK](https://github.com/AdyaaKhera/Neural-IK-RoboticArmSimulation)** : Learning-based inverse-kinematics simulation for robotic manipulation.
+- **[Warehouse AMR](https://github.com/AdyaaKhera/WarehouseAMR)** : Mobile robotics project integrating navigation, obstacle avoidance, and pick-and-place capabilities.
 
-I'm a robotics engineering junior building reliable autonomous systems for uncertain environments.
+### Technical Interests
 
----
+- **Robot learning:** PyTorch, computer vision, tactile sensing, VLA models
+- **Autonomy and control:** Navigation, state estimation, motion planning, feedback control
+- **Embedded systems:** C/C++, Python, Arduino, Raspberry Pi
+- **Engineering:** CAD, sensor integration, simulation, hardware-software debugging
 
-## Technical Stack
+### Research
 
-- **Programming Languages:** C/C++, Python, HTML, CSS, JavaScript, MATLAB
-- **Developer Tools:** VS Code, PyCharm, Google Colab, Anaconda, GitHub
-- **AI/ML Frameworks:** PyTorch, OpenCV, Scikit-learn, TensorFlow, Ensemble Learning
-- **CAD & Simulation:** CATIA, Siemens NX & Teamcenter, Autodesk Fusion, Inventor, Onshape
-- **Embedded Systems:** Raspberry Pi, Arduino, ESP32
-- **Robotics:** Webots, ROS, Yamaha Robots, Fanuc Robots
+Undergraduate researcher at Purdue's MARS Lab, working on tactile sensing and contact-aware robotic manipulation.
 
----
+**Publication:** *MVP-Tac: A Miniaturized Dual-Modal Vision and Photoelastic Tactile Sensor for Robot-Assisted Minimally Invasive Surgery* — IROS 2026 accepted paper.
 
-## Current Work
+### Links
 
-- VLAs for robotic manipulation
-- Tactile skin for robotic perception
-- Yamaha robot chip segregator
-
----
-
-<p align="center"><em>Love to build on Earth for beyond.</em></p>
+[Portfolio](https://github.com/AdyaaKhera) · [LinkedIn](https://www.linkedin.com/in/adyaakhera/)
