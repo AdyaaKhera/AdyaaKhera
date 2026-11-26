@@ -10,16 +10,16 @@ import sys
 OUT = sys.argv[1]
 os.makedirs(os.path.join(OUT, "cards"), exist_ok=True)
 
-# Palette: Purdue black and Boilermaker Gold
+# Palette: black and sapphire royal blue (GOLD is the accent color)
 BG0 = "#000000"
-BG1 = "#111111"
-BG2 = "#1C1C1C"
-PANEL = "#0A0A0A"
-LINE = "#333333"
-GOLD = "#CFB991"
-STEEL = "#9D9795"
-TEXT = "#F2F2F2"
-MUTED = "#8E8E8E"
+BG1 = "#0b0e17"
+BG2 = "#111626"
+PANEL = "#0a0c14"
+LINE = "#1e2638"
+GOLD = "#7B97E8"
+STEEL = "#8F9AB5"
+TEXT = "#F3F5FA"
+MUTED = "#8A93A8"
 RED = "#E07A6B"
 
 SANS = "'Helvetica Neue', Helvetica, Arial, sans-serif"
@@ -156,7 +156,7 @@ def card(name, idx, cat, title, lines, stats, illus, desc):
 <line x1="32" y1="360" x2="{CW-32}" y2="360" stroke="{LINE}"/>
 {"".join(stat_svg)}
 </svg>'''
-    write(f"cards/{name}.svg", svg)
+    write(f"cards/{name}-blue.svg", svg)
 
 
 def path_anim(frames, dur, style):
