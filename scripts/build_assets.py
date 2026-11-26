@@ -388,7 +388,7 @@ def build_cards():
          ["An MLP trained from scratch maps end-effector targets", "to joint angles, validated against forward kinematics."],
          [("2-DOF", "PLANAR ARM"), ("MLP", "PYTORCH"), ("FK", "VALIDATION")], illus_ik(),
          "Animation of a neural network and a robot arm reaching successive target points.")
-    card("industrial", "04", "INDUSTRIAL ROBOTICS",
+    card("scara-chip-placement", "04", "INDUSTRIAL ROBOTICS",
          "Yamaha SCARA Chip Placement",
          ["A Yamaha SCARA picks 15 poker chips from two stacks", "and places them in a 3 x 5 grid using suction."],
          [("15", "CHIPS PLACED"), ("3 x 5", "TARGET GRID"), ("RCX 340", "CONTROLLER")], illus_scara(),

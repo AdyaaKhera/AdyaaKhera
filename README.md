@@ -20,7 +20,7 @@ I'm a junior in Robotics at Purdue University and an undergraduate researcher at
   </tr>
   <tr>
     <td width="50%"><a href="https://github.com/AdyaaKhera/Neural-IK-RoboticArmSimulation"><img src="assets/cards/neural-ik.svg" width="100%" alt="Neural Inverse Kinematics"></a></td>
-    <td width="50%"><a href="https://github.com/AdyaaKhera/YamahaChipPlacement"><img src="assets/cards/industrial.svg" width="100%" alt="Yamaha SCARA Chip Placement"></a></td>
+    <td width="50%"><a href="https://github.com/AdyaaKhera/YamahaChipPlacement"><img src="assets/cards/scara-chip-placement.svg" width="100%" alt="Yamaha SCARA Chip Placement"></a></td>
   </tr>
 </table>
 
