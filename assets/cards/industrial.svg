@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="420" viewBox="0 0 600 420" role="img" aria-labelledby="t d">
-<title id="t">FANUC and Yamaha SCARA Cells</title>
+<title id="t">Yamaha SCARA Chip Placement</title>
 <desc id="d">Animation of a SCARA robot, seen from above, placing chips from two stacks into a three by five grid.</desc>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#000000"/><stop offset="1" stop-color="#1C1C1C"/></linearGradient>
@@ -20,9 +20,9 @@
 <text x="560" y="222" class="mono" fill="#8E8E8E" font-size="10" text-anchor="end" letter-spacing="1.5">SCARA · TOP VIEW</text>
 <text x="40" y="222" class="mono" fill="#8E8E8E" font-size="10" letter-spacing="1.5">SUCTION + INDUCTIVE SENSE</text></g>
 <path d="M12,24 L12,12 L24,12 M576,12 L588,12 L588,24 M588,230 L588,242 L576,242 M24,242 L12,242 L12,230" fill="none" stroke="#CFB991" stroke-opacity="0.5" stroke-width="1.5"/>
-<text x="32" y="268" class="mono" fill="#CFB991" font-size="12" letter-spacing="2.5">04  /  INDUSTRIAL ROBOT CELLS</text>
-<text x="31" y="298" class="sans" fill="#F2F2F2" font-size="25" font-weight="700">FANUC and Yamaha SCARA Cells</text>
-<text x="32" y="320" class="sans" fill="#9D9795" font-size="17">Programmed industrial cells: SCARA chip placement into</text><text x="32" y="344" class="sans" fill="#9D9795" font-size="17">a 3 x 5 grid and a FANUC declutter cell with custom EOAT.</text>
+<text x="32" y="268" class="mono" fill="#CFB991" font-size="12" letter-spacing="2.5">04  /  INDUSTRIAL ROBOTICS</text>
+<text x="31" y="298" class="sans" fill="#F2F2F2" font-size="25" font-weight="700">Yamaha SCARA Chip Placement</text>
+<text x="32" y="320" class="sans" fill="#9D9795" font-size="17">A Yamaha SCARA picks 15 poker chips from two stacks</text><text x="32" y="344" class="sans" fill="#9D9795" font-size="17">and places them in a 3 x 5 grid using suction.</text>
 <line x1="32" y1="360" x2="568" y2="360" stroke="#333333"/>
-<text x="32" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">15</text><text x="32" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">CHIPS PLACED</text><text x="216" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">RCX 340</text><text x="216" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">CONTROLLER</text><text x="400" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">FANUC</text><text x="400" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">CUSTOM EOAT</text>
+<text x="32" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">15</text><text x="32" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">CHIPS PLACED</text><text x="216" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">3 x 5</text><text x="216" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">TARGET GRID</text><text x="400" y="384" class="mono" fill="#F2F2F2" font-size="19" font-weight="700">RCX 340</text><text x="400" y="404" class="mono" fill="#8E8E8E" font-size="11" letter-spacing="1">CONTROLLER</text>
 </svg>
